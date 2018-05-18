@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication13.iml" filepath="$PROJECT_DIR$/MyApplication13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7_jicheng_demo1/day7_jicheng_demo1.iml" filepath="$PROJECT_DIR$/day7_jicheng_demo1/day7_jicheng_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8_mvp_demo/day8_mvp_demo.iml" filepath="$PROJECT_DIR$/day8_mvp_demo/day8_mvp_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rk0517_demo1/rk0517_demo1.iml" filepath="$PROJECT_DIR$/rk0517_demo1/rk0517_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rk0518_demo/rk0518_demo.iml" filepath="$PROJECT_DIR$/rk0518_demo/rk0518_demo.iml" />
+    </modules>
+  </component>
+</project>
